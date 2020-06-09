@@ -102,11 +102,3 @@ btn.addEventListener('mouseout', e => {
     ease:Bounce.easeOut
   });
 });
-
-
-// const formSubmit = document.querySelector('.form-submit');
-// formSubmit.addEventListener('click', e => {
-//   console.log(`Work button fired a click event!`);
-//   // stops the original behavior of HTML elements
-//   e.preventDefault();
-// });
